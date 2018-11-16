@@ -11,3 +11,19 @@
     flex: 0 1 auto; 
 }
 
+a:link{
+    color:black;
+}
+
+a:visited{
+    color:black;
+}
+
+h2:hover{
+    color:goldenrod;
+    }
+    
+img:hover{
+    transform: scale(2, 2);
+    float: none;
+}
