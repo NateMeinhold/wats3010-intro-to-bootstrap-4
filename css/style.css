@@ -26,4 +26,6 @@ h2:hover{
 img:hover{
     transform: scale(2, 2);
     float: none;
+    transition-duration: .4s;
+    transition-timing-function: cubic-bezier(0.25,0.74,0.22,0.99);
 }
