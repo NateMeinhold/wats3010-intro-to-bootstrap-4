@@ -39,3 +39,11 @@ img:hover{
     cursor: pointer;
     
 }
+.card-header:hover{
+     color:goldenrod;
+    cursor: pointer;
+}
+
+.card-header{
+    text-align:center;
+}
